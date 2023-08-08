@@ -19,17 +19,15 @@ My insatiable thirst for knowledge propels me to actively seek opportunities to 
 With a strong foundation in cloud computing, DevOps, and security, I am well-equipped to bring immense value to any project or organization. My skills and dedication are readily available for exciting gigs, job opportunities, contracts, and projects where I can make a significant impact.
 
 Feel free to reach out for professional collaborations or potential engagements.</h3>
-<h4 align="left" style="font-family: monospace">alias: DevBarham</h5>
+<h4 align="left" style="font-family: monospace">alias: abdulmalik-devs</h5>
     
 ---
 
 ## 💬 Details
-- 🔭 I’m currently working on **Cloud Security**
-- 🌱 I’m currently or looking forward to learning **K8s**
-- 👨‍💻 All of my projects are available at [github.com/devbarham](github.com/devbarham)
-- 📝 I write articles on [https://DevBarham.hashnode.dev/](https://DevBarham.hashnode.dev/)
-- 💬 Ask me about **DevOps**
-- 📫 How to reach me **saheedibrahimdamilare@gmail.com**
+- 🔭 I’m currently working on **DevSecOps**
+- 🌱 I’m currently or looking forward to learning **API, CI/CD & Cloud Security**
+- 👨‍💻 All of my projects are available at [github.com/devbarham](github.com/abdulmalik-devs)
+- 💬 Ask me about **DevOps and Security**
 - ⚡ Fun fact **I like computers**
 
 ---
