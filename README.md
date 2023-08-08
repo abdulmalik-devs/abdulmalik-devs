@@ -29,7 +29,7 @@ Feel free to reach out for professional collaborations or potential engagements.
 - 👨‍💻 All of my projects are available at [github.com/devbarham](github.com/abdulmalik-devs)
 - 💬 Ask me about **DevOps and Security**
 - ⚡ Fun fact **I like computers**
-
+-
 ---
 
 ## 🔭 Past Experience
