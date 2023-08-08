@@ -42,13 +42,13 @@ Feel free to reach out for professional collaborations or potential engagements.
 | NOC Centre                      | Network Technician   | Internship          | May 2019   - Aug 2019 |
 
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=abdulmalik-devs&theme=onedark)](https://github.com/abdulmalik-devs/github-profile-trophy)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eniolastyle&show_icons=true&locale=en&layout=compact" alt="eniolastyle" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulmalik-devs&show_icons=true&locale=en&layout=compact" alt="abdulmalik-devs" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eniolastyle&show_icons=true&locale=en" alt="eniolastyle" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulmalik-devs&show_icons=true&locale=en" alt="abdulmalik-devs" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eniolastyle&" alt="eniolastyle" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulmalik-devs&" alt="abdulmalik-devs" /></p>
 
 ---
 
