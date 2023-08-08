@@ -12,13 +12,13 @@
 ---
 ## 👯 About Me
 
-<h5 align="left">I am Abdulmalik Ololade, a highly dedicated and passionate DevOps engineer, driven by a profound enthusiasm for cybersecurity. I believe that continuous improvement is the key to staying ahead, and I am constantly exploring innovative approaches to security to make it an indispensable aspect across various industries.
+<h6 align="left">I am Abdulmalik Ololade, a highly dedicated and passionate DevOps engineer, driven by a profound enthusiasm for cybersecurity. I believe that continuous improvement is the key to staying ahead, and I am constantly exploring innovative approaches to security to make it an indispensable aspect across various industries.
 
 My insatiable thirst for knowledge propels me to actively seek opportunities to expand my expertise and collaborate with like-minded DevOps and security enthusiasts. I firmly believe in the power of collaboration, and I am always open to learning from peers while generously sharing my own insights.
 
 With a strong foundation in cloud computing, DevOps, and security, I am well-equipped to bring immense value to any project or organization. My skills and dedication are readily available for exciting gigs, job opportunities, contracts, and projects where I can make a significant impact.
 
-Feel free to reach out for professional collaborations or potential engagements.</h5>
+Feel free to reach out for professional collaborations or potential engagements.</h6>
 
     
 ---
@@ -28,8 +28,7 @@ Feel free to reach out for professional collaborations or potential engagements.
 - 🌱 I’m currently or looking forward to learning **API, CI/CD & Cloud Security**
 - 👨‍💻 All of my projects are available at [github.com/devbarham](github.com/abdulmalik-devs)
 - 💬 Ask me about **DevOps and Security**
-- ⚡ Fun fact **I like computers**
--
+- ⚡ Fun fact **DevOps and security walk into a bar. The bartender says, 'Sorry, we don't serve your kind here.' DevOps and security reply, 'That's okay, we'll just automate our own drinks and secure the bar's entrance while we're at it!**
 ---
 
 ## 🔭 Past Experience
@@ -42,7 +41,7 @@ Feel free to reach out for professional collaborations or potential engagements.
 | NOC Centre                      | Network Technician   | Internship          | May 2019   - Aug 2019 |
 
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=abdulmalik-devs&theme=onedark)](https://github.com/abdulmalik-devs/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=abdulmalik-devs)](https://github.com/abdulmalik-devs/github-profile-trophy)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulmalik-devs&show_icons=true&locale=en&layout=compact" alt="abdulmalik-devs" /></p>
 
