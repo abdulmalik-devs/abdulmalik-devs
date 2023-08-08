@@ -19,7 +19,7 @@ My insatiable thirst for knowledge propels me to actively seek opportunities to 
 With a strong foundation in cloud computing, DevOps, and security, I am well-equipped to bring immense value to any project or organization. My skills and dedication are readily available for exciting gigs, job opportunities, contracts, and projects where I can make a significant impact.
 
 Feel free to reach out for professional collaborations or potential engagements.</h5>
-<h6 align="left" style="font-family: monospace">alias: abdulmalik-devs</h6>
+
     
 ---
 
@@ -42,7 +42,13 @@ Feel free to reach out for professional collaborations or potential engagements.
 | NOC Centre                      | Network Technician   | Internship          | May 2019   - Aug 2019 |
 
 ---
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eniolastyle&show_icons=true&locale=en&layout=compact" alt="eniolastyle" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eniolastyle&show_icons=true&locale=en" alt="eniolastyle" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eniolastyle&" alt="eniolastyle" /></p>
 
 ---
 
