@@ -26,7 +26,7 @@ Feel free to reach out for professional collaborations or potential engagements.
 ## 💬 Details
 - 🔭 I’m currently working on **DevSecOps**
 - 🌱 I’m currently or looking forward to learning **API, CI/CD & Cloud Security**
-- 👨‍💻 All of my projects are available at [github.com/devbarham](github.com/abdulmalik-devs)
+- 👨‍💻 All of my projects are available at [github.com/abdulmalik-devs](github.com/abdulmalik-devs)
 - 💬 Ask me about **DevOps and Security**
 - ⚡ Fun fact **DevOps and security walk into a bar. The bartender says, 'Sorry, we don't serve your kind here.' DevOps and security reply, 'That's okay, we'll just automate our own drinks and secure the bar's entrance while we're at it!**
 ---
