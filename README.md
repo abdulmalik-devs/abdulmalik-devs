@@ -55,7 +55,7 @@ Feel free to reach out for professional collaborations or potential engagements.
 
 1. You can either fork or clone the repo
 2. Create a new repository
-3. Make the name of the repository your github username, fo example my username is `adefemi171` so my repository name will be `adefemi171`.
+3. Make the name of the repository your github username, fo example my username is `abdulmalik-devs` so my repository name will be `abdulmalik-devs`.
 4. After this, a README.md file is automatically created, you can either clone this new repo or edit on your browser
 5. Paste what you forked/cloned from my repository and edit to your own style.
 5. To add more style to your README, you can watch this video by [codeSTACKr](https://www.youtube.com/watch?v=n6d4KHSKqGk) for the Spotify and also the blogpost functionality.
