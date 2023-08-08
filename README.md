@@ -12,7 +12,7 @@
 ---
 ## 👯 About Me
 
-- I am Abdulmalik Ololade, a highly dedicated and passionate DevOps engineer, driven by a profound enthusiasm for cybersecurity. I believe that continuous improvement is the key to staying ahead, and I am constantly exploring innovative approaches to security to make it an indispensable aspect across various industries.
+I am Abdulmalik Ololade, a highly dedicated and passionate DevOps engineer, driven by a profound enthusiasm for cybersecurity. I believe that continuous improvement is the key to staying ahead, and I am constantly exploring innovative approaches to security to make it an indispensable aspect across various industries.
 
 My insatiable thirst for knowledge propels me to actively seek opportunities to expand my expertise and collaborate with like-minded DevOps and security enthusiasts. I firmly believe in the power of collaboration, and I am always open to learning from peers while generously sharing my own insights.
 
